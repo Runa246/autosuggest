@@ -13,3 +13,5 @@ Commands:
 git add -A
 git commit -m "hello"
 git push
+
+hello
