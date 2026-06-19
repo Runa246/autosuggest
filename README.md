@@ -9,7 +9,7 @@ changes flow for pushing:
 
 hi
 
-commands:
+Commands:
 git add -A
 git commit -m "hello"
 git push
